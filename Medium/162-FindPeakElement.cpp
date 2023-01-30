@@ -5,6 +5,9 @@ Difficulty: Medium
 Question Link: https://leetcode.com/problems/find-peak-element/
 */
 
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
